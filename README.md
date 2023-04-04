@@ -11,7 +11,9 @@ This project involved the development of a Reduced Instruction Set Computing (RI
 
 ## Requirements
 A computer with a Verilog compiler (such as Quartus II)
+
 A simulator (such as ModelSim Altera)
+
 The Verilog code for the processor
 
 ## Design
