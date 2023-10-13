@@ -49,6 +49,7 @@ The processor can be tested by running instruction produced by an assembler at t
 
 ## Contributor
 Nicholas Seegobin
+Zeerak Asim
 
 ## License
 This project is licensed under the MIT License.
